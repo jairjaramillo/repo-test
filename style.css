@@ -1,0 +1,12 @@
+.clase {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-image: radial-gradient(rgb(60, 110, 158), rgb(188, 191, 201));
+  border-style: solid;
+  border-width: 20px;
+}
+
+.titulo {
+  text-align: center;
+  font-size: 200px;
+  text-shadow: 5px 5px 10px rgb(73, 73, 73);
+}
